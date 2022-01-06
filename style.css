@@ -8,6 +8,7 @@ h1{
 }
 section{
     display: block;
+    margin-bottom: 100px;
 }
 #margin-line{
     padding-inline: 10px;
