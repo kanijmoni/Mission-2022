@@ -1,8 +1,16 @@
 body{
       font-family: 'Poppins', sans-serif;
+      display: block;
+      margin-left: 15px;
 }
 h1{
     font-size: 30px;
+}
+section{
+    display: block;
+}
+#margin-line{
+    padding-inline: 10px;
 }
 .mission-color{
 color: rgba(255, 0, 0, 0.493)
@@ -12,9 +20,6 @@ color: rgba(255, 0, 0, 0.493)
     width: 50%;
     padding: 10px 10px 10px;
 }
-.my-mission{
-text-align: center;
-}
 .border-line{
     border-left: 5px solid orangered;
 }
@@ -23,8 +28,8 @@ text-align: center;
     padding: 5px;
 }
 .half-width image{
-    width: 50px;
-    padding: 5px;
+    width: 40px;
+    padding: 2px;
 }
 .link-button{
     text-decoration: none;
@@ -37,4 +42,12 @@ text-align: center;
 .background-image{
     background-image: url(images/shapes/shape-5.png);
     background-position: center;
+}
+#mission{
+    margin: 15px ;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    text-color: white;
 }
