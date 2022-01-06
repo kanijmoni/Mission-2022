@@ -15,7 +15,7 @@ section{
 .mission-color{
 color: rgba(255, 0, 0, 0.493)
 }
-.flixible-container{
+.flexible-container{
     display: flex;
     width: 50%;
     padding: 10px 10px 10px;
