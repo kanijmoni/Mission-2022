@@ -1,0 +1,30 @@
+body{
+      font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 40px;
+}
+.mission-color{
+color: rgba(255, 0, 0, 0.493)
+}
+section{
+    display: flex;
+}
+.border-line{
+    border-left: 2px solid perple;
+}
+.half-width{
+    width: 30%;
+    padding: 5%
+}
+.half-width image{
+    width: 40px;
+    height: 50px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(red tomato);
+    padding: 10px 40px;
+    color: white;
+    border-radius: 5px;
+}
