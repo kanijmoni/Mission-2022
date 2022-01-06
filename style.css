@@ -34,7 +34,7 @@ color: rgba(255, 0, 0, 0.493)
 }
 .link-button{
     text-decoration: none;
-    background-image: linear-gradient(orangered tomato);
+    background-image: linear-gradient(orangered, tomato);
     padding: 10px 40px;
     color: black;
     font-weight: 700;
